@@ -1,7 +1,7 @@
 <div align="center" id="cuecut_logo">
   <img src="logo.png" alt="logo" width="125"></img>
 </div>
-<h3 align="center"><b>CueCut：一款真正免费、无VIP、开源且跨平台的视频编辑器</b></a>
+<h3 align="center"><b>CueCut：免费且开源的（网页版、桌面版）视频编辑器 — 无 VIP</b></a>
 </h3>
 
 <h3 align="center">
