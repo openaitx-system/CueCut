@@ -18,7 +18,7 @@ If you have any questions about this project, or would like to contribute, pleas
 
 ## News
 
-- **[2025-07-16]** 🚀 **CueCut 项目库创建!** 
+- **[2025-07-16]** 🚀 **CueCut Project library created!** 
 
 <details>
 <summary>show more</summary>
