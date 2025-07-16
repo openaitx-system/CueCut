@@ -1,7 +1,7 @@
 <div align="center" id="cuecut_logo">
   <img src="logo.png" alt="logo" width="125"></img>
 </div>
-<h3 align="center"><b>CueCut: Free & Open Video Editing for Web, Desktop — No VIP</b></a>
+<h3 align="center"><b>CueCut: Free & Open-Source Video Editor for Web, Desktop — No VIP</b></a>
 </h3>
 
 <h3 align="center">
